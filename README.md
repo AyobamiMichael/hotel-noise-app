@@ -34,16 +34,6 @@ This Streamlit app helps travelers find **hotels with low noise pollution and cl
 
 ---
 
-### 🚀 Run It Locally
-
-1. Clone this repo
-
-```bash
-git clone https://github.com/your-username/hotel-noise-app.git
-cd hotel-noise-app
-
-
-
 
 🤝 Credits
 Data Source: TBO Hotels Dataset
